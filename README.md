@@ -21,12 +21,13 @@ Perchè qui posso apprendere, migliorare le mie conoscenze, condividere e sperim
 
 ### Queste sono le tecnologie che attualmente fanno parte dei miei "ferri"  🧰 👨🏼‍🏭 
 
+
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-eee?style=for-the-badge&logo=css3&logoColor=3367d4)
 ![Sass](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VueJs](http://img.shields.io/badge/-Vue.Js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
+![vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
 
 
 ![Docker](https://img.shields.io/badge/-Docker-eee?style=for-the-badge&logo=docker&logoColor=2496ed)
@@ -42,13 +43,20 @@ Perchè qui posso apprendere, migliorare le mie conoscenze, condividere e sperim
 
 ### Secondo GitHub
 
-[![Quant85's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quant85&theme=blue-green)](https://github.com/Quant85/github-readme-stats)
+![ViewCount](https://komarev.com/ghpvc/?username=Quant85&color=1A4730)
 
 [![Quant85's github stats](https://github-readme-stats.vercel.app/api?username=Quant85&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Quant85/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quant85&layout=compact&theme=gotham&custom_title=Statistics) 
 
 ---
 
 <i>Puoi trovarmi anche su:</i><br>
 
 <a href="https://www.linkedin.com/in/antonioquattrocchi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:antonio.85.q@gmail.com">
+  <img alt="Antonio's Email" src="https://img.shields.io/badge/-E--mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://t.me/Antonydiamond">
+  <img alt="Antonio's Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" />
+</a>
 <a href="https://open.spotify.com/user/nbuubij2nd38x5v0f7fqsaihd?si=bO_in-TWTRWiEgo3NYtgLw" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
